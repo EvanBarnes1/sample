@@ -12,6 +12,8 @@ Before running this service, you will need the following:
 ### Your favorite Java IDE
 * for example: [IntelliJ](https://www.jetbrains.com/idea/) 
 
+### Install Maven
+* [Maven](https://maven.apache.org)
 
 ## Technologies Used
 
@@ -20,6 +22,9 @@ Before running this service, you will need the following:
 
 ### Java Spring Boot Framework
 * [SpringBoot](https://spring.io/projects/spring-boot)
+
+### Maven - helps to compile, package and dependencis
+* [Maven](https://maven.apache.org)
 
 ## Compiling, Testing and Running
 
