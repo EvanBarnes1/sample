@@ -1,6 +1,6 @@
 # README.md
 
-Welcome to a demo project
+Welcome to a sample project
 
 ## Setup Environment
 
@@ -12,10 +12,21 @@ Before running this service, you will need the following:
 ### Your favorite Java IDE
 * for example: [IntelliJ](https://www.jetbrains.com/idea/) 
 
-## to compile
+
+## Technologies Used
+
+### Java
+* [Java](https://dev.java)
+
+### Java Spring Boot Framework
+* [SpringBoot](https://spring.io/projects/spring-boot)
+
+## Compiling, Testing and Running
+
+### to compile
 
 ```mvn clean install```
 
-## to run
+### to run
 
 ```mvn spring-boot:run```
