@@ -16,7 +16,7 @@ public class DemoApplication {
 	@Bean
 	public CommandLineRunner commandLineRunner(ApplicationContext ctx) {
 		return args -> {
-			System.out.println("Hello World - Evan, Yuvi, Dakota - Change this string please");
+			System.out.println("I did it");
 		};
 	}
 
