@@ -6,14 +6,19 @@ Welcome to a sample project
 
 Before running this service, you will need the following:
 
+### Brew
+* [Brew Installation](https://brew.sh)
+
 ### Java
 * [Java Corretto 17+](https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/downloads-list.html)
-
-### Your favorite Java IDE
-* for example: [IntelliJ](https://www.jetbrains.com/idea/) 
+* ```brew cask install corretto```
 
 ### Install Maven
 * [Maven](https://maven.apache.org)
+* ```brew install maven```
+
+### Your favorite Java IDE
+* for example: [IntelliJ](https://www.jetbrains.com/idea/)
 
 ## Technologies Used
 
